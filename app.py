@@ -360,7 +360,7 @@ st.markdown("<div style='height:8px'></div>", unsafe_allow_html=True)
 run = st.button("Analyse Resume →", use_container_width=True)
 
 
-#  RESULTS ************************************************************
+
 
 if run:
     # ── Validate ───────────────────────────────────────────────
